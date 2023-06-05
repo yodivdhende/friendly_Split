@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "friendlySplit")(type "KiCad")(uri "E:/comp/Documents/Projecten/Keyboard/65/friendlySplit/friendlySplit.pretty")(options "")(descr ""))
+)

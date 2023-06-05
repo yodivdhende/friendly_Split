@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "friendly_Split")(type "KiCad")(uri "${KIPRJMOD}/friendly_Split.pretty")(options "")(descr ""))
+)
