@@ -1,0 +1,4 @@
+["Esc","Q","W","E","R","T","Y","U","I","O","P","Del","Back"],
+[{a:4,w:1.25},"Caps"," A","S","D","F","G","H","J","K","L",":\n;",{w:1.75},"Enter"],
+[{w:1.75},"Shift","Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{w:1.25},"shift"],
+[{w:1.25},"Ctrl","Fn","Win","Alt",{w:1.75},"space-left",{w:2.75},"space-right","AltGr","Fn","Fp",{w:1.25},"Ctrl"]
