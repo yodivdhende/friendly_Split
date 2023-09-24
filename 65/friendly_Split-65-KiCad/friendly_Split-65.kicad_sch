@@ -13,35 +13,35 @@
   )
 
 
-  (sheet (at 156.21 67.31) (size 52.07 57.15) (fields_autoplaced)
+  (sheet (at 156.21 82.55) (size 48.26 41.91) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid c6583363-8048-4e87-a2eb-3e7d69f55782)
-    (property "Sheetname" "Right" (at 156.21 66.5984 0)
+    (uuid 53380bc6-b11b-4fde-912d-8066519e09e4)
+    (property "Sheetname" "right" (at 156.21 81.8384 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "friendlySplit_right/friendlySplit_right.kicad_sch" (at 156.21 125.0446 0)
+    (property "Sheetfile" "right.kicad_sch" (at 156.21 125.0446 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "friendlySplit"
+      (project "friendly_Split-65"
         (path "/cefbecea-7bec-4164-bd6e-5af8ce6e107d" (page "3"))
       )
     )
   )
 
-  (sheet (at 64.77 69.85) (size 40.64 53.34) (fields_autoplaced)
+  (sheet (at 66.04 55.245) (size 48.26 55.88) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
-    (uuid dd19cea5-46fe-4ea6-866e-b3129f368e37)
-    (property "Sheetname" "Left" (at 64.77 69.1384 0)
+    (uuid bfce550c-1afe-427b-92f1-d5691e9f8ffc)
+    (property "Sheetname" "left" (at 66.04 54.5334 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "friendlySplit_left/friendlySplit_left.kicad_sch" (at 64.77 123.7746 0)
+    (property "Sheetfile" "left.kicad_sch" (at 66.04 111.7096 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
-      (project "friendlySplit"
+      (project "friendly_Split-65"
         (path "/cefbecea-7bec-4164-bd6e-5af8ce6e107d" (page "2"))
       )
     )
